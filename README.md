@@ -20,10 +20,13 @@ Esta análise exploratória de dados, baseada em informações fictícias gerada
   ### Geração de Dados Fictícios
   A geração de dados foi realizada para três categorias principais: clientes, produtos e vendas. Isso incluiu informações sobre clientes, como nome, idade, gênero e localização, detalhes sobre produtos, como tipo, categoria e preço, e registros de vendas, incluindo quantidade, valor e data.
 
-  Neste artigo, aprofundo-me na descrição do processo de geração dos dados, destacando as etapas e considerações envolvidas: [Criando Dados Fictícios com a Biblioteca Faker em Python](faker.md)
+  Neste artigo, aprofundo-me na descrição do processo de geração dos dados, destacando as etapas e considerações envolvidas: 
+  - [Criando Dados Fictícios com a Biblioteca Faker em Python](faker.md)
   
   ### Análise Exploratória em Andamento
   Com os dados fictícios em mãos, iniciei o processo de análise exploratória. Estou atualmente investigando padrões, correlações e tendências nos dados. As visualizações gráficas e métricas estatísticas estão sendo utilizadas para fornecer uma compreensão aprofundada do comportamento de compra das mulheres.
+
+  - [Análise Exploratória](analise_exploratoria.md)
   
   ### Desafios e Próximos Passos
   Enquanto avanço na análise, deparo-me com desafios interessantes e procuro identificar padrões sutis. Os próximos passos envolvem a refinagem da análise, aprofundando as descobertas e ajustando a abordagem conforme necessário para determinar os fatores que influenciam as decisões de compra das mulheres. Essas descobertas formarão a base para recomendações estratégicas que podem catalisar o aumento das vendas da empresa
