@@ -7,11 +7,18 @@
   ### Idade
   
   Com base nas estatísticas descritivas fornecidas (idade mínima, idade máxima, média, moda e mediana), podemos inferir algumas características sobre a distribuição das idades. Aqui estão algumas observações:
+</div> 
+
+<div align='center'>
   
   | Mínima   | Máxima   | Média | Moda  | Mediana
   :---------:|:--------:|:-----:|:-----:|:------:
   |  18      | 90       |  51   |  24   |  50
-  
+ 
+ </div>
+
+ <div align='justify'>
+ 
   1. **Distribuição Assimétrica:** A média (51) está próxima da mediana (50), o que sugere uma distribuição simétrica ou ligeiramente assimétrica.
   
   2. **Moda Distante da Média/Mediana:** A moda (24) é significativamente menor que a média e a mediana. Isso pode indicar uma distribuição com uma cauda mais longa à direita, ou seja, com um número relativamente pequeno de indivíduos mais velhos.
@@ -27,11 +34,16 @@
 **- Faixa-etária:**
   
   Com base nos dados da faixa etária fornecidos, podemos extrair algumas informações interessantes:
+  </div>
+<div align='center'>
   
   | Faixa Etária | 18-28 | 29-39 | 40-50 | 51-61 | 62-72 | 73+ |
   |:------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:---:|
   |     Total    |  533  |  500  |  505  |  491  |  400  | 571 |
+  </div>
   
+  <div align='justify'>
+    
   1. **Concentração nas Faixas Jovens:** As faixas "18-28" e "29-39" têm uma quantidade relativamente alta de observações (533 e 500, respectivamente). Isso sugere uma concentração de indivíduos mais jovens na amostra.
   
   2. **Distribuição Decrescente:** A quantidade total de observações parece diminuir à medida que avançamos para faixas etárias mais elevadas. A faixa "73+" tem a maior contagem (571), indicando que há uma presença significativa de pessoas mais velhas na amostra.
@@ -45,12 +57,16 @@
   Essas observações fornecem insights iniciais sobre a distribuição etária na amostra e podem orientar análises mais aprofundadas sobre padrões de comportamento em diferentes grupos etários.
   
   ### Gênero
-  Considerando que a loja vende exclusivamente produtos voltados para o mercado feminino, alguns insights adicionais podem ser destacados:
+  Considerando que a loja vende exclusivamente produtos voltados para o mercado feminino, alguns insights adicionais podem ser destacados: </div>
+  <div align='center'>
   
   | Gênero |F   |    M   |
   |:------:|:--:|:-----:|
   |Clientes|2035 | 965  |
-  
+
+  </div>
+  <div align='justify'>
+    
   1. **Foco Exclusivo em Produtos Femininos:** Com 2035 clientes identificados como mulheres e a loja vendendo exclusivamente produtos para o público feminino, a estratégia de marketing e a seleção de produtos podem ser totalmente direcionadas para atender às necessidades e preferências das clientes.
   
   2. **Análise Profunda do Comportamento Feminino:** A concentração significativa de clientes femininas permite uma análise mais aprofundada do comportamento de compra, preferências de produtos, e tendências específicas desse público. Isso pode orientar decisões estratégicas, como a seleção de estoque e a criação de campanhas promocionais.
@@ -67,11 +83,13 @@
   
   ### Localização 
   
-  Com base nos dados fornecidos sobre a localização dos clientes, algumas observações iniciais podem ser destacadas:
+  Com base nos dados fornecidos sobre a localização dos clientes, algumas observações iniciais podem ser destacadas: </div> <div align='center'>
   
   | Localização | Salvador | Rio de Janeiro | Belo Horizonte | Curitiba | São Paulo |
   |-------------|----------|----------------|----------------|----------|-----------|
   | Quantidade  | 626      | 611            | 603            | 585      | 575       |
+
+</div><div align='justify'>
   
   1. **Diversidade Geográfica:** A amostra abrange várias localizações, incluindo Salvador, Rio de Janeiro, Belo Horizonte, Curitiba e São Paulo, proporcionando uma visão geográfica diversificada.
   
@@ -87,12 +105,13 @@
 
   ### Clientes Homens  X Localização
 
-  Com base nos dados fornecidos sobre a distribuição de clientes homens por cidade, algumas observações iniciais podem ser destacadas:
+  Com base nos dados fornecidos sobre a distribuição de clientes homens por cidade, algumas observações iniciais podem ser destacadas:</div> <div align='center'>
 
   | Localização | Salvador | Rio de Janeiro | Belo Horizonte | Curitiba | São Paulo |
   |-------------|----------|----------------|----------------|----------|-----------|
   | Quantidade  | 189      | 204            | 184            | 199      | 189       |
 
+</div><div align='justify'>
 
 1. **Distribuição Equilibrada:** A distribuição de clientes homens por cidade parece ser relativamente equilibrada, com contagens próximas em Rio de Janeiro, Curitiba, Salvador, São Paulo e Belo Horizonte.
 
@@ -108,11 +127,13 @@ Essas observações fornecem uma visão geral da presença de clientes homens em
 
 **- Rio de Janeiro**
 
-Com base nos dados fornecidos sobre a distribuição de faixa etária no Rio de Janeiro, algumas observações iniciais podem ser destacadas:
+Com base nos dados fornecidos sobre a distribuição de faixa etária no Rio de Janeiro, algumas observações iniciais podem ser destacadas:</div> <div align='center'>
 
 | Faixa Etária | 18-28 | 29-39 | 40-50 | 51-61 | 62-72 | 73+ |
 |:------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:---:|
 |     Total    |  102  |  94 |  109 |  93 |  83 | 130 |
+
+</div><div align='justify'>
 
 1. **Predominância da Faixa Etária "73+":** A faixa etária "73+" tem a maior contagem na cidade do Rio de Janeiro, indicando uma presença significativa de clientes nessa faixa mais avançada.
 
@@ -123,11 +144,14 @@ Com base nos dados fornecidos sobre a distribuição de faixa etária no Rio de 
 Essas observações oferecem uma visão inicial da distribuição de clientes em diferentes faixas etárias na cidade do Rio de Janeiro. Essa compreensão pode ser útil para estratégias de marketing mais direcionadas, adaptadas aos interesses e necessidades específicos de cada faixa etária na região.
 
   **- Belo Horizonte**
-  Com base nos dados fornecidos sobre a distribuição de faixa etária em Belo Horizonte, algumas observações iniciais podem ser destacadas:
+  
+  Com base nos dados fornecidos sobre a distribuição de faixa etária em Belo Horizonte, algumas observações iniciais podem ser destacadas:</div> <div align='center'>
 
 | Faixa Etária | 18-28 | 29-39 | 40-50 | 51-61 | 62-72 | 73+ |
 |:------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:---:|
 |     Total    |  109  |  101  |  98   |  93   | 119   | 	101|
+
+</div><div align='justify'>
 
 1. **Predominância da Faixa Etária "51-61":** A faixa etária "51-61" tem a maior contagem em Belo Horizonte, indicando uma presença significativa de clientes nessa faixa etária específica.
 
@@ -138,11 +162,14 @@ Essas observações oferecem uma visão inicial da distribuição de clientes em
 Essas observações oferecem uma visão inicial da distribuição de clientes em diferentes faixas etárias na cidade de Belo Horizonte. Essa compreensão pode ser valiosa para estratégias de marketing mais direcionadas, adaptadas aos interesses e necessidades específicos de cada grupo etário na região.
 
   **- Curitiba**
-  Com base nos dados fornecidos sobre a distribuição de faixa etária em Curitiba, algumas observações iniciais podem ser destacadas:
+  
+  Com base nos dados fornecidos sobre a distribuição de faixa etária em Curitiba, algumas observações iniciais podem ser destacadas:</div> <div align='center'>
 
 | Faixa Etária | 18-28 | 29-39 | 40-50 | 51-61 | 62-72 | 73+ |
 |:------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:---:|
 |     Total    |  96  |  112  |  95  |  80   | 93  | 		109|
+
+</div><div align='justify'>
 
 1. **Predominância da Faixa Etária "29-39":** A faixa etária "29-39" tem a maior contagem em Curitiba, indicando uma presença significativa de clientes nessa faixa etária específica.
 
@@ -153,11 +180,14 @@ Essas observações oferecem uma visão inicial da distribuição de clientes em
 Essas observações oferecem uma visão inicial da distribuição de clientes em diferentes faixas etárias na cidade de Curitiba. Essa compreensão pode ser valiosa para estratégias de marketing mais direcionadas, adaptadas aos interesses e necessidades específicos de cada grupo etário na região.
 
  **- São Paulo**
-  Com base nos dados fornecidos sobre a distribuição de faixa etária em São Paulo, algumas observações iniciais podem ser destacadas:
+ 
+  Com base nos dados fornecidos sobre a distribuição de faixa etária em São Paulo, algumas observações iniciais podem ser destacadas:</div> <div align='center'>
 
 | Faixa Etária | 18-28 | 29-39 | 40-50 | 51-61 | 62-72 | 73+ |
 |:------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:---:|
 |     Total    |  114 |  85  |  103  |  102  | 65 | 		106|
+
+</div><div align='justify'>
 
 1. **Predominância da Faixa Etária "18-28":** A faixa etária "18-28" tem a maior contagem em São Paulo, indicando uma presença significativa de clientes nessa faixa etária específica.
 
@@ -170,12 +200,15 @@ Essas observações oferecem uma visão inicial da distribuição de clientes em
 Essas observações fornecem uma visão inicial da distribuição de clientes em diferentes faixas etárias na cidade de São Paulo. Essa compreensão pode ser valiosa para estratégias de marketing mais direcionadas, adaptadas aos interesses e necessidades específicos de cada grupo etário na região.
 
  **- Salvador**
-  Com base nos dados fornecidos sobre a distribuição de faixa etária em Salvador, algumas observações iniciais podem ser destacadas:
+ 
+  Com base nos dados fornecidos sobre a distribuição de faixa etária em Salvador, algumas observações iniciais podem ser destacadas:</div> <div align='center'>
 
 | Faixa Etária | 18-28 | 29-39 | 40-50 | 51-61 | 62-72 | 73+ |
 |:------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:---:|
 |     Total    |  112 |  100  |  100 |  97  | 84  | 		125|
 
+</div><div align='justify'>
+  
 1. **Predominância da Faixa Etária "73+":** A faixa etária "73+" tem a maior contagem em Salvador, indicando uma presença significativa de clientes nessa faixa etária específica.
 
 2. **Distribuição Equilibrada nas Faixas "18-28" e "29-39":** As faixas etárias "18-28" e "29-39" apresentam contagens próximas, sugerindo uma distribuição relativamente equilibrada entre clientes mais jovens e aqueles na faixa de transição para a meia-idade.
