@@ -1,4 +1,4 @@
-# Análise de Vendas
+# Análise Exploratória Descritiva
 
 ## Introdução 
 
@@ -23,13 +23,13 @@ A quantidade total de dados disponíveis em cada tabela para nossa análise é: 
 </div>
 
 <div align='justify'> 
-  
-## Análise Exploratória Descritiva
+
+## Desenvolvimento
 
 - Tabela Clientes: [Clique aqui](tabela_clientes.md)
 - Tabela Produtos: [Clique aqui](tabela_produtos.md)
 - Tabela Vendas: [Clique aqui](tabela_vendas.md)
 
-## Resultados
+## Considerações
 
 </div>
