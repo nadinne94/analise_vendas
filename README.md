@@ -3,13 +3,13 @@
 <div align="justify">
   
   ## Introdução
-  O dinâmico cenário do comércio, especialmente no setor de moda feminina, requer uma compreensão profunda e atualizada do comportamento das consumidoras. Como analista de dados júnior em uma loja renomada de artigos femininos, meu papel é extrair insights valiosos de um grande volume de dados dispersos, a fim de aprimorar a estratégia de vendas e impulsionar o crescimento da empresa.
+  O dinâmico cenário do comércio, especialmente no setor de moda feminina, requer uma compreensão profunda e atualizada do comportamento das consumidoras. Como analista de dados júnior em uma loja de artigos femininos, meu papel é extrair insights valiosos de um grande volume de dados dispersos, a fim de aprimorar a estratégia de vendas e impulsionar o crescimento da empresa.
   
   ## Contexto e Problema
-  Nossa loja, que possui filiais em algumas das maiores capitais do país, enfrenta o desafio de otimizar as vendas de produtos femininos. Apesar de possuirmos uma riqueza de dados sobre transações de vendas, a dispersão dessas informações em diferentes sistemas dificulta a análise unificada. A falta de estruturação adequada impede a identificação de padrões e fatores influentes nas decisões de compra das mulheres.
+  Nossa loja, que possui filiais em algumas das maiores capitais do país, enfrenta o desafio de otimizar as vendas de produtos femininos. Apesar de possuirmos dados sobre transações de vendas, a dispersão dessas informações em diferentes sistemas dificulta a análise unificada. A falta de estruturação adequada impede a identificação de padrões e fatores influentes nas decisões de compra das mulheres.
   
   ## Objetivo e Tarefa
-  O objetivo principal é utilizar técnicas avançadas de análise de dados para criar um relatório abrangente que destaque os principais fatores que impactam as decisões de compra das clientes da nossa loja. A proposta é não apenas compreender o comportamento de compra, mas também fornecer recomendações estratégicas que possam ser aplicadas para elevar as vendas de produtos femininos.
+  O objetivo principal é utilizar técnicas avançadas de análise de dados para criar um relatório que destaque os principais fatores que impactam as decisões de compra das clientes da nossa loja. A proposta é não apenas compreender o comportamento de compra, mas também fornecer recomendações estratégicas que possam ser aplicadas para elevar as vendas de produtos femininos.
 
 Esta análise exploratória de dados, baseada em informações fictícias geradas realisticamente, visa oferecer uma visão profunda do perfil das consumidoras, suas preferências e padrões de compra. Este artigo fornece uma visão geral do processo até agora, com a expectativa de resultados significativos nas próximas etapas da análise.
   
