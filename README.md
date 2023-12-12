@@ -22,7 +22,7 @@ Esta análise exploratória de dados, baseada em informações fictícias gerada
   Neste artigo, aprofundo-me na descrição do processo de geração dos dados, destacando as etapas e considerações envolvidas: 
   - [Criando Dados Fictícios com a Biblioteca Faker em Python](faker.md)
   
-  ## Análise Exploratória em Andamento
+  ## Análise Exploratória Descritiva
   Com os dados fictícios em mãos, iniciei o processo de análise exploratória. Estou atualmente investigando padrões, correlações e tendências nos dados. As visualizações gráficas e métricas estatísticas estão sendo utilizadas para fornecer uma compreensão aprofundada do comportamento de compra das mulheres.
 
   - [Análise Exploratória](analise_exploratoria.md)
