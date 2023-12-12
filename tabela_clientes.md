@@ -69,7 +69,7 @@
     
   1. **Foco Exclusivo em Produtos Femininos:** Com 2035 clientes identificados como mulheres e a loja vendendo exclusivamente produtos para o público feminino, a estratégia de marketing e a seleção de produtos podem ser totalmente direcionadas para atender às necessidades e preferências das clientes.
   
-  2. **Análise Profunda do Comportamento Feminino:** A concentração significativa de clientes femininas permite uma análise mais aprofundada do comportamento de compra, preferências de produtos, e tendências específicas desse público. Isso pode orientar decisões estratégicas, como a seleção de estoque e a criação de campanhas promocionais.
+  2. **Análise do Comportamento Feminino:** A concentração significativa de clientes femininas permite uma análise mais aprofundada do comportamento de compra, preferências de produtos, e tendências específicas desse público. Isso pode orientar decisões estratégicas, como a seleção de estoque e a criação de campanhas promocionais.
   
   3. **Personalização de Ofertas e Experiência do Cliente:** Com uma maioria feminina, a loja pode personalizar ofertas, promoções e experiências de compra para criar um ambiente mais alinhado com as expectativas e interesses das clientes.
   
@@ -125,7 +125,7 @@ Essas observações fornecem uma visão geral da presença de clientes homens em
 
 ### Faixa Etária X Localização
 
-**- Rio de Janeiro**
+**1. Rio de Janeiro**
 
 Com base nos dados fornecidos sobre a distribuição de faixa etária no Rio de Janeiro, algumas observações iniciais podem ser destacadas:</div> <div align='center'>
 
@@ -140,10 +140,8 @@ Com base nos dados fornecidos sobre a distribuição de faixa etária no Rio de 
 2. **Distribuição Equilibrada nas Faixas "40-50" e "18-28":** As faixas etárias "40-50" e "18-28" apresentam contagens próximas, sugerindo uma distribuição relativamente equilibrada entre clientes mais jovens e aqueles na faixa de meia-idade.
 
 3. **Representatividade nas Faixas "29-39", "51-61" e "62-72":** As faixas etárias "29-39", "51-61" e "62-72" têm contagens consideráveis, indicando representatividade em diferentes grupos etários.
-   
-Essas observações oferecem uma visão inicial da distribuição de clientes em diferentes faixas etárias na cidade do Rio de Janeiro. Essa compreensão pode ser útil para estratégias de marketing mais direcionadas, adaptadas aos interesses e necessidades específicos de cada faixa etária na região.
 
-  **- Belo Horizonte**
+  **2. Belo Horizonte**
   
   Com base nos dados fornecidos sobre a distribuição de faixa etária em Belo Horizonte, algumas observações iniciais podem ser destacadas:</div> <div align='center'>
 
@@ -159,9 +157,7 @@ Essas observações oferecem uma visão inicial da distribuição de clientes em
 
 3. **Representatividade nas Faixas "29-39", "40-50" e "62-72":** As faixas etárias "29-39", "40-50" e "62-72" têm contagens consideráveis, indicando representatividade em diferentes grupos etários.
    
-Essas observações oferecem uma visão inicial da distribuição de clientes em diferentes faixas etárias na cidade de Belo Horizonte. Essa compreensão pode ser valiosa para estratégias de marketing mais direcionadas, adaptadas aos interesses e necessidades específicos de cada grupo etário na região.
-
-  **- Curitiba**
+  **3. Curitiba**
   
   Com base nos dados fornecidos sobre a distribuição de faixa etária em Curitiba, algumas observações iniciais podem ser destacadas:</div> <div align='center'>
 
@@ -177,9 +173,8 @@ Essas observações oferecem uma visão inicial da distribuição de clientes em
 
 3. **Contagens Sólidas nas Faixas "40-50", "62-72" e "51-61":** As faixas etárias "40-50", "62-72" e "51-61" têm contagens consideráveis, indicando representatividade em diferentes grupos etários.
    
-Essas observações oferecem uma visão inicial da distribuição de clientes em diferentes faixas etárias na cidade de Curitiba. Essa compreensão pode ser valiosa para estratégias de marketing mais direcionadas, adaptadas aos interesses e necessidades específicos de cada grupo etário na região.
 
- **- São Paulo**
+ **4. São Paulo**
  
   Com base nos dados fornecidos sobre a distribuição de faixa etária em São Paulo, algumas observações iniciais podem ser destacadas:</div> <div align='center'>
 
@@ -197,9 +192,8 @@ Essas observações oferecem uma visão inicial da distribuição de clientes em
 
 4. **Menor Representatividade na Faixa "62-72":** A faixa etária "62-72" tem uma contagem menor em comparação com outras faixas, sugerindo uma presença relativamente menor de clientes nessa faixa específica.
 
-Essas observações fornecem uma visão inicial da distribuição de clientes em diferentes faixas etárias na cidade de São Paulo. Essa compreensão pode ser valiosa para estratégias de marketing mais direcionadas, adaptadas aos interesses e necessidades específicos de cada grupo etário na região.
 
- **- Salvador**
+ **5. Salvador**
  
   Com base nos dados fornecidos sobre a distribuição de faixa etária em Salvador, algumas observações iniciais podem ser destacadas:</div> <div align='center'>
 
@@ -215,6 +209,7 @@ Essas observações fornecem uma visão inicial da distribuição de clientes em
 
 3. **Representatividade nas Faixas "40-50", "51-61" e "62-72":** As faixas etárias "40-50", "51-61" e "62-72" têm contagens consideráveis, indicando representatividade em diferentes grupos etários.
 
-Essas observações oferecem uma visão inicial da distribuição de clientes em diferentes faixas etárias na cidade de Salvador. Essa compreensão pode ser valiosa para estratégias de marketing mais direcionadas, adaptadas aos interesses e necessidades específicos de cada grupo etário na região.
+
+Essas observações oferecem uma visão inicial da distribuição de clientes em diferentes faixas etárias em cada cidade. Essa compreensão pode ser útil para estratégias de marketing mais direcionadas, adaptadas aos interesses e necessidades específicos de cada grupo etário na região.
 
 </div>
