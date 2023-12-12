@@ -96,7 +96,7 @@ with open('dados_vendas.csv','w',newline='') as csvfile_vendas:
 print("Arquivo 'dados_vendas.csv' gerado com sucesso.")"
 ```
 ## Conclusão
-Neste projeto, exploramos a geração de dados fictícios usando a biblioteca Faker em Python. As funções criadas demonstram como gerar dados realistas e variados para análise exploratória. Este projeto é uma ótima oportunidade para praticar habilidades em Python, além de proporcionar a experiência valiosa de trabalhar com conjuntos de dados fictícios.
+Neste projeto, exploramos a geração de dados fictícios usando a biblioteca Faker em Python. As funções criadas demonstram como gerar dados realistas e variados para análise exploratória. Este projeto é uma ótima oportunidade para praticar habilidades em Python, além de proporcionar a experiência de trabalhar com conjuntos de dados fictícios.
 
 </div>
 
