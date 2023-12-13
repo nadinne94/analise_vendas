@@ -280,7 +280,9 @@ Diversidade de Compras:
 Categoria "Formal":
 * "Acessórios" lidera as compras.
 
-## Análise Temporal de Vendas 
+## Análise Temporal de Vendas
+
+**Média:** $710.104 
 
 </div><div align='center'>
   
@@ -288,17 +290,39 @@ Categoria "Formal":
 |----------|-----------|----------|----------|----------|----------|
 | $711.098 | $632.822  | $706.188 | $771.501 | $790.205 | $648.810 |
 
-</div><div align='center'>
+</div><div align='justify'>
 
-**Maio:**
-* Maior Valor de Vendas: $790,205
+**Maior Valor de Vendas:**
+* Maio: $790,205
 
-**Fevereiro:**
-* Menor Valor de Vendas: $632,822
+**Menor Valor de Vendas:**
+* Fevereiro: $632,822
 
-- Média: $710.104 
+### Tendências ao Longo dos Meses:
 
+1. Janeiro apresenta uma distribuição relativamente equilibrada nas categorias Casual, Esportivo e Formal.
+2. Fevereiro tem uma queda nas vendas de Calçados, especialmente na categoria Casual.
+3. Março destaca-se com um aumento nas vendas de Roupas na categoria Esportivo.
+4. Abril registra um aumento notável nas vendas de Calçados, principalmente na categoria Formal.
+5. Maio mostra um crescimento consistente nas vendas de todas as categorias.
+6. Junho destaca-se por uma queda nas vendas de Roupas na categoria Formal.
 
+### Padrões por Categoria:
+
+1. Casual: Apresenta variações ao longo dos meses, com destaque para Maio.
+2. Esportivo: Mantém um padrão consistente, com aumento notável em Março.
+3. Formal: Variações significativas, com quedas notáveis em Fevereiro e Junho.
+
+### Impacto nas Estratégias de Estoque e Produção:
+
+1. É crucial ajustar os estoques com base nas variações de demanda observadas em cada categoria e mês.
+2. Estratégias promocionais podem ser aplicadas para impulsionar vendas em categorias específicas nos meses de menor desempenho.
+
+### Ações Sugeridas:
+
+1. Monitorar de perto as vendas de Calçados em Fevereiro para entender a queda.
+2. Investigar o motivo por trás do aumento nas vendas de Roupas na categoria Esportivo em Março.
+3. Avaliar a eficácia de promoções em Maio, que impulsionaram as vendas em todas as categorias.
 
 
 
